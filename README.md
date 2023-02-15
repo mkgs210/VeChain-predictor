@@ -1,5 +1,5 @@
 # VeChain predictor
-### $${\color{red}СКОРО \space\space НОВЫЕ \space\space ВЕРСИИ}$$
+### $${\color{red}ведется \space\space разработка \space\space улучшенной \space\space lstm \space\space модели}$$
 ## Описание
 Проект представляет собой реализацию прогнозирования цены криптовалюты VeChain на открытых данных Yahoo Finance и метриках BitCoin с помощью различных моделей машинного обучения, таких как:
 + линейная регрессия
